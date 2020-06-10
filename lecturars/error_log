@@ -1,0 +1,68 @@
+[02-Jun-2020 20:02:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/uzbgraph/public_html/studentinfosystem/lecturars/updateImage.php on line 30
+[02-Jun-2020 20:02:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uzbgraph/public_html/studentinfosystem/lecturars/includes/head.php:104) in /home/uzbgraph/public_html/studentinfosystem/helpers/helpers.php on line 114
+[02-Jun-2020 21:27:16 UTC] PHP Warning:  readfile(songs/): failed to open stream: No such file or directory in /home/uzbgraph/public_html/studentinfosystem/lecturars/downloads.php on line 24
+[02-Jun-2020 22:05:06 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/includes/head.php on line 75
+[02-Jun-2020 22:05:06 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/dashboard.php on line 68
+[02-Jun-2020 22:05:06 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/dashboard.php on line 124
+[02-Jun-2020 22:05:06 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/dashboard.php on line 156
+[02-Jun-2020 23:29:39 Africa/Lagos] PHP Notice:  Undefined offset: 1 in /home/uzbgraph/public_html/studentinfosystem/lecturars/giveAss.php on line 28
+[02-Jun-2020 22:39:05 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/includes/head.php on line 75
+[02-Jun-2020 22:39:05 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 31
+[02-Jun-2020 22:39:05 UTC] PHP Notice:  Undefined variable: sqlquery in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 41
+[02-Jun-2020 22:39:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 41
+[02-Jun-2020 22:39:05 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 83
+[02-Jun-2020 22:39:05 UTC] PHP Notice:  Undefined variable: sqlquery in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 93
+[02-Jun-2020 22:39:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 93
+[02-Jun-2020 22:39:05 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 154
+[02-Jun-2020 22:39:05 UTC] PHP Notice:  Undefined variable: queryall in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 167
+[02-Jun-2020 22:39:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 167
+[02-Jun-2020 22:40:24 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/includes/head.php on line 75
+[02-Jun-2020 22:40:24 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/dashboard.php on line 68
+[02-Jun-2020 22:40:24 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/dashboard.php on line 124
+[02-Jun-2020 22:40:24 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/dashboard.php on line 156
+[03-Jun-2020 11:03:25 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/includes/head.php on line 75
+[03-Jun-2020 11:03:25 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 31
+[03-Jun-2020 11:03:25 UTC] PHP Notice:  Undefined variable: sqlquery in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 41
+[03-Jun-2020 11:03:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 41
+[03-Jun-2020 11:03:25 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 83
+[03-Jun-2020 11:03:25 UTC] PHP Notice:  Undefined variable: sqlquery in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 93
+[03-Jun-2020 11:03:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 93
+[03-Jun-2020 11:03:25 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 154
+[03-Jun-2020 11:03:25 UTC] PHP Notice:  Undefined variable: queryall in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 167
+[03-Jun-2020 11:03:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 167
+[03-Jun-2020 11:03:32 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/includes/head.php on line 75
+[03-Jun-2020 11:03:32 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 31
+[03-Jun-2020 11:03:32 UTC] PHP Notice:  Undefined variable: sqlquery in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 41
+[03-Jun-2020 11:03:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 41
+[03-Jun-2020 11:03:32 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 83
+[03-Jun-2020 11:03:32 UTC] PHP Notice:  Undefined variable: sqlquery in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 93
+[03-Jun-2020 11:03:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 93
+[03-Jun-2020 11:03:32 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 154
+[03-Jun-2020 11:03:32 UTC] PHP Notice:  Undefined variable: queryall in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 167
+[03-Jun-2020 11:03:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 167
+[03-Jun-2020 11:06:37 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/includes/head.php on line 75
+[03-Jun-2020 11:06:37 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/dashboard.php on line 68
+[03-Jun-2020 11:06:37 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/dashboard.php on line 124
+[03-Jun-2020 11:06:37 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/dashboard.php on line 156
+[03-Jun-2020 11:43:13 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/includes/head.php on line 75
+[03-Jun-2020 11:43:13 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/dashboard.php on line 68
+[03-Jun-2020 11:43:13 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/dashboard.php on line 124
+[03-Jun-2020 11:43:13 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/dashboard.php on line 156
+[03-Jun-2020 11:51:14 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/includes/head.php on line 75
+[03-Jun-2020 11:51:14 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/dashboard.php on line 68
+[03-Jun-2020 11:51:14 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/dashboard.php on line 124
+[03-Jun-2020 11:51:14 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/dashboard.php on line 156
+[03-Jun-2020 13:27:09 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/includes/head.php on line 75
+[03-Jun-2020 13:27:09 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 30
+[03-Jun-2020 13:27:09 UTC] PHP Notice:  Undefined variable: sqlquery in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 40
+[03-Jun-2020 13:27:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 40
+[03-Jun-2020 13:27:09 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 85
+[03-Jun-2020 13:27:09 UTC] PHP Notice:  Undefined variable: sqlquery in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 95
+[03-Jun-2020 13:27:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 95
+[03-Jun-2020 13:27:09 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 156
+[03-Jun-2020 13:27:09 UTC] PHP Notice:  Undefined variable: queryall in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 169
+[03-Jun-2020 13:27:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/uzbgraph/public_html/studentinfosystem/lecturars/student_mark.php on line 169
+[03-Jun-2020 13:27:21 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/includes/head.php on line 75
+[03-Jun-2020 13:27:21 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/dashboard.php on line 68
+[03-Jun-2020 13:27:21 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/dashboard.php on line 124
+[03-Jun-2020 13:27:21 UTC] PHP Notice:  Undefined variable: lecturar_id in /home/uzbgraph/public_html/studentinfosystem/lecturars/dashboard.php on line 156

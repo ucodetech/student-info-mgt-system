@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>loader</title>
+	<style type="text/css">
+	#loading{
+		position: absolute;
+		left: 45%;
+		top: 30%;
+		margin:0 auto;
+	}
+	
+</style>
+</head>
+<body onload="myFunction()">
+
+<div id="loading" class="text-center">
+	<img src="uzb.svg" alt="loading">
+</div>
+<script type="text/javascript">
+	var start;
+
+	function myFunction(){
+		start = setTimeout(showpage,10000);
+	}
+	function showpage(){
+		document.getElementById("loading").style.display="none";
+		document.getElementById("container").style.display="block";
+
+	}
+</script>
+</body>
+</html>
