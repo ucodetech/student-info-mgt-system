@@ -1,6 +1,6 @@
 <?php
 
-	  $db = mysqli_connect('127.0.0.1', 'uzbgraph_graveth', 'echo@mike12@@@','uzbgraph_student_info_system');
+	  $db = mysqli_connect('127.0.0.1', 'root', '','student_info_system');
   session_start();
   if (mysqli_connect_errno()) {
     echo 'Database connection failed with errors: '  .mysqli_connect_error();
